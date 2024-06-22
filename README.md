@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hasnain Ali
 
-![Banner]([https://your-banner-image-url.com](https://ibb.co/nsRFxYw))
+![Banner]([https://ibb.co/nsRFxYw])
 
 Welcome to my GitHub profile! I am a passionate and dedicated Full MERN Stack Developer with a love for creating dynamic and responsive web applications. Here you'll find a collection of my projects, code snippets, and contributions to the open-source community.
 
