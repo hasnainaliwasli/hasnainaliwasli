@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hasnain Ali
 
-![Banner]([https://ibb.co/nsRFxYw])
+<img src="https://github.com/hasnainaliwasli/Profile/blob/main/img.jpg" alt="Banner" width="40%" height="auto" />
 
 Welcome to my GitHub profile! I am a passionate and dedicated Full MERN Stack Developer with a love for creating dynamic and responsive web applications. Here you'll find a collection of my projects, code snippets, and contributions to the open-source community.
 
@@ -29,17 +29,6 @@ Welcome to my GitHub profile! I am a passionate and dedicated Full MERN Stack De
 - **MERN Stack**: Proficient in MongoDB, Express.js, React.js, and Node.js
 - **Version Control**: Using Git and GitHub for efficient collaboration
 
-## 📚 Projects
-
-### [Project 1: My Portfolio](https://github.com/yourusername/portfolio)
-A modern and responsive personal portfolio website showcasing my skills, projects, and contact information.
-
-### [Project 2: E-Commerce Platform](https://github.com/yourusername/ecommerce-platform)
-A full-featured e-commerce application built with the MERN stack, including product listings, user authentication, and a shopping cart.
-
-### [Project 3: Chat Application](https://github.com/yourusername/chat-app)
-A real-time chat application using React.js and Firebase, featuring user authentication and instant messaging.
-
 ## 🌈 Design Philosophy
 
 I believe in creating user-friendly, aesthetically pleasing, and highly functional web applications. My design philosophy revolves around:
@@ -50,25 +39,18 @@ I believe in creating user-friendly, aesthetically pleasing, and highly function
 
 ## 📫 Contact Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [twitter.com/yourusername](https://twitter.com/yourusername)
+- **Email**: [hasnain62712@gmail.com](mailto:hasnain62712@gmail.com)
+- **LinkedIn**: [linkedin.com/in/hasnainali123](https://www.linkedin.com/in/hasnainali123/)
+- **GitHub**: [github.com/hasnainaliwasli](https://github.com/hasnainaliwasli/)
+- **Twitter**: [twitter.com/Mahrhasnainali](https://x.com/Mahrhasnainali)
 
 ## 📈 GitHub Stats
 
-![Hasnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of the blog post](https://your-blog-url.com)
-- [Title of the blog post](https://your-blog-url.com)
-- [Title of the blog post](https://your-blog-url.com)
-<!-- BLOG-POST-LIST:END -->
+![Hasnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnainaliwasli&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainaliwasli&layout=compact&theme=radical)
 
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
-![Profile Views](https://gpvc.arturio.dev/yourusername)
+![Profile Views](https://gpvc.arturio.dev/hasnainaliwasli)
