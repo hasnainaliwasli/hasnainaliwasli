@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hasnain%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://github.com/hasnainaliwasli/Profile/blob/main/img.jpg" alt="Hasnain Ali" width="200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 30px rgba(0,212,255,0.6);" />
+<img src="https://github.com/hasnainaliwasli/Profile/blob/main/Profile.jpg" alt="Hasnain Ali" width="200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 30px rgba(0,212,255,0.6);" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Crafting+Scalable+Web+Solutions+%F0%9F%92%BB;Turning+Creative+Ideas+Into+Reality+%E2%9C%A8;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
